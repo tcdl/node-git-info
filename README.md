@@ -1,3 +1,7 @@
+# Intro
+This repository is a fork of [node-git-info](https://github.com/rcruzper/node-git-info).
+It based on nodejs 8 (current LTS version) and has updated versions of dependencies.
+
 # Node Git Info
 
 [![npm version](https://img.shields.io/npm/v/node-git-info.svg?style=flat)](https://badge.fury.io/js/node-git-info)
